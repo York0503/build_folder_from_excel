@@ -30,7 +30,7 @@ if not os.path.exists(log_folder):
     os.makedirs(log_folder)
 
 try:
-    # 遍歷配置檔案中的所有 Excel 
+    # 遍歷配置檔案中的所有 Excel 組
     for section in config.sections():
         if section.startswith("Excel_"):
             file_path = config[section]["file_path"]

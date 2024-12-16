@@ -1,0 +1,8 @@
+2024-12-02 09:11:15,962 - ERROR - 無法讀取 Excel 檔案 'input_Excel/Product_CHT_ENG_Reference.xlsx'
+Excel_1 指定資料夾不存在
+
+2024-12-02 09:11:15,962 - ERROR - 無法讀取 Excel 檔案 'input_Excel/Product_CHT_ENG_Reference.xlsx'
+Excel_2 指定資料夾不存在
+
+2024-12-02 09:15:10,789 - ERROR - 無法讀取 Excel 檔案 'input_Excel/Product_CHT_ENG_Reference.xlsx' 或工作表 'Drinks': Worksheet named 'Drinks' not found
+
